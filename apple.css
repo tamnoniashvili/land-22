@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+}
+.container {
+    height: 1,675px;
+    width: 100%;
+}
+h1 {
+    font-size: 52px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+h5{
+    font-size: 20px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.box1 {
+    height: 624px;
+    width: 476px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin: 20px;
+}
+.pic {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 154px;
+}
+h6 {
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 40.5px;
+    color: #5c5c5c;
+    text-align: center;
+}
+.one{
+    height: 52px;
+    width: 148px;
+    background-color: #4452FE;
+    border: none;
+    margin-top: 67px;
+    margin-left: 164px;
+    color: #FFFFFF;
+}
+.mask{
+    height: 222.42px;
+    width: 330.58px;
+    margin-top: 57px;
+    margin-left: 72.71px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 10px;
+}
+.bottom {
+    height: 8.37px;
+    width: 405.13px;
+    margin-left: 35.44px;
+    border-style: ;
+    border-bottom: #9FA2A5;
+    box-shadow: #9FA2A5;
+}
+.boards {
+    height: 276px;
+    width: 379px;
+    border-radius: 14px;
+    margin-top: 30px;
+    margin-left: 21px;
+}
+.two {
+    height: 52px;
+    width: 148px;
+    background-color: #4452FE;
+    border: none;
+    margin-top: 25px;
+    margin-left: 164px;
+    color: #FFFFFF;
+}
+.satauri {
+    height: 72px;
+    width: 280px;
+   
+}
